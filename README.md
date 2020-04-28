@@ -1,4 +1,4 @@
-# RandomPython
+# This is a python bot that runs on MacOS to text a selected contact every word from the script of bee movie
 
 # Install pip in terminal with:
     curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
